@@ -18,7 +18,7 @@ This platform includes the following programs:
 ## Live Website
 
 Access the live site here:  
-[https://yourusername.github.io/your-repo-name/](https://nicodemusbundi001.github.io/your-repo-name/)
+[https://nicodemusbundi.github.io/your-repo-name/](https://nicodemusbundi001.github.io/your-repo-name/)
 
 ---
 
